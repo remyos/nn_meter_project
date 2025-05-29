@@ -1,0 +1,5 @@
+builtin_name: deepx_npu_v2
+package_location: /home/remyos/nn-Meter/nn_meter/builder/backends/deepx
+class_module: deepx_backend
+class_name: DeepxNPUBackend
+defaultConfigFile:

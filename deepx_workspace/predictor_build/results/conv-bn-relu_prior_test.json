@@ -1,0 +1,310 @@
+{
+    "conv-bn-relu": {
+        "OR3JWN": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_OR3JWN",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    4
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 4,
+                "COUT": 55,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "PO62SB": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_PO62SB",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    1052
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 1052,
+                "COUT": 11,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "M4XXQE": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_M4XXQE",
+            "shapes": [
+                [
+                    7,
+                    7,
+                    663
+                ]
+            ],
+            "config": {
+                "HW": 7,
+                "CIN": 663,
+                "COUT": 72,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "YPOEYZ": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_YPOEYZ",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    210
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 210,
+                "COUT": 510,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 2
+            }
+        },
+        "2DFPDE": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_2DFPDE",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    22
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 22,
+                "COUT": 40,
+                "KERNEL_SIZE": 7,
+                "STRIDES": 1
+            }
+        },
+        "LXKYEH": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_LXKYEH",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    192
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 192,
+                "COUT": 33,
+                "KERNEL_SIZE": 7,
+                "STRIDES": 1
+            }
+        },
+        "5LFSU5": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_5LFSU5",
+            "shapes": [
+                [
+                    224,
+                    224,
+                    945
+                ]
+            ],
+            "config": {
+                "HW": 224,
+                "CIN": 945,
+                "COUT": 16,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "OAJFQ2": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_OAJFQ2",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    77
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 77,
+                "COUT": 474,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "9BUM7I": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_9BUM7I",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    381
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 381,
+                "COUT": 169,
+                "KERNEL_SIZE": 5,
+                "STRIDES": 1
+            }
+        },
+        "QDF24Y": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_QDF24Y",
+            "shapes": [
+                [
+                    1,
+                    1,
+                    9
+                ]
+            ],
+            "config": {
+                "HW": 1,
+                "CIN": 9,
+                "COUT": 45,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "WJ1V6G": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_WJ1V6G",
+            "shapes": [
+                [
+                    3,
+                    3,
+                    795
+                ]
+            ],
+            "config": {
+                "HW": 3,
+                "CIN": 795,
+                "COUT": 20,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "FCOZFB": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_FCOZFB",
+            "shapes": [
+                [
+                    27,
+                    27,
+                    89
+                ]
+            ],
+            "config": {
+                "HW": 27,
+                "CIN": 89,
+                "COUT": 70,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "KJZFGZ": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_KJZFGZ",
+            "shapes": [
+                [
+                    1,
+                    1,
+                    806
+                ]
+            ],
+            "config": {
+                "HW": 1,
+                "CIN": 806,
+                "COUT": 509,
+                "KERNEL_SIZE": 5,
+                "STRIDES": 1
+            }
+        },
+        "6RRT3V": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_6RRT3V",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    244
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 244,
+                "COUT": 83,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "C4AV3R": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_C4AV3R",
+            "shapes": [
+                [
+                    56,
+                    56,
+                    973
+                ]
+            ],
+            "config": {
+                "HW": 56,
+                "CIN": 973,
+                "COUT": 45,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 2
+            }
+        },
+        "9H7UMH": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_9H7UMH",
+            "shapes": [
+                [
+                    112,
+                    112,
+                    921
+                ]
+            ],
+            "config": {
+                "HW": 112,
+                "CIN": 921,
+                "COUT": 134,
+                "KERNEL_SIZE": 1,
+                "STRIDES": 1
+            }
+        },
+        "Q5TSKU": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_Q5TSKU",
+            "shapes": [
+                [
+                    28,
+                    28,
+                    441
+                ]
+            ],
+            "config": {
+                "HW": 28,
+                "CIN": 441,
+                "COUT": 503,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "8OPDIK": {
+            "model": "/home/remyos/nn-Meter/deepx_workspace/predictor_build/kernels/conv-bn-relu_prior_test_8OPDIK",
+            "shapes": [
+                [
+                    13,
+                    13,
+                    504
+                ]
+            ],
+            "config": {
+                "HW": 13,
+                "CIN": 504,
+                "COUT": 1893,
+                "KERNEL_SIZE": 7,
+                "STRIDES": 1
+            }
+        }
+    }
+}

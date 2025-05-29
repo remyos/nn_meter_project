@@ -1,0 +1,94 @@
+{
+    "conv-bn-relu": {
+        "Y3768R": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 63,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "ET07AE": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 42,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "DJYM7M": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 71,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "W09PM3": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 62,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "26EP1Q": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 67,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "K06RPP": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 70,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "WFLGX4": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 45,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "APJT0S": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 57,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "B85AJK": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 44,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        },
+        "4RFWTY": {
+            "config": {
+                "HW": 28,
+                "CIN": 0,
+                "COUT": 52,
+                "KERNEL_SIZE": 3,
+                "STRIDES": 1
+            }
+        }
+    }
+}
